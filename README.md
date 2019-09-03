@@ -1,5 +1,3 @@
-# web-scraping-resultado-pesuisa-do-google
-
 # Web Scraping - Capturar urls da pagina de pesquisa do Google
 
 A aplicação acessa o google e faz uma pesuisa por sites relacionados, utilizando a query search?q=related%3A. Dessa forma, os resultados que aparecem são únicos, de modo geral, e isso torna mais simples a captura das urls. 
